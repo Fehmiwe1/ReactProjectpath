@@ -4,7 +4,6 @@
   color: #ecf0f1; /* Light text for contrast */
   padding: 3rem 2rem;
   font-family: 'Roboto', sans-serif;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
